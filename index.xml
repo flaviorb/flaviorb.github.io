@@ -1,40 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FlavioRB - Website</title>
-    <link>http://www.flaviorb.com.br/</link>
-    <description>Recent content on FlavioRB - Website</description>
+    <title>Flavio RB</title>
+    <link>https://www.flaviorb.com.br/</link>
+    <description>Recent content on Flavio RB</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.flaviorb.com.br/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Sobre Flávio RB</title>
-      <link>http://www.flaviorb.com.br/about/</link>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.flaviorb.com.br/about/</guid>
-      <description>
-
-&lt;p&gt;Nasci em Petrópolis, mas resido na Cidade do Rio de Janeiro.&lt;/p&gt;
-
-&lt;p&gt;Profissional de TI, cético, ateu e de esquerda. Apaixonado por fotografia, TI, neurociência, psicologia, sociologia, física e um monte de outras coisas.&lt;/p&gt;
-
-&lt;p&gt;A fotografia é uma diversão para mim, uma forma de eu não ficar o tempo inteiro preso na frente de um computador, serve para me tirar de casa e conhecer lugares e pessoas.&lt;/p&gt;
-
-&lt;p&gt;As outras coisas (pode ser o que importa), me fazem ler muito. Desse monte de leitura, tem vindo a vontade de escrever.&lt;/p&gt;
-
-&lt;p&gt;Onde isso vai me levar?&lt;/p&gt;
-
-&lt;h2 id=&#34;leia-meus-textos&#34;&gt;Leia meus textos:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sobre-fotografar.flaviorb.com.br/&#34;&gt;Fotografia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/outras-coisas&#34;&gt;Não Fotografia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
+    <language>pt-br</language><atom:link href="https://www.flaviorb.com.br/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
