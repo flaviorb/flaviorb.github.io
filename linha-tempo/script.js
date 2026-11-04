@@ -9,7 +9,7 @@ let filtroPais = "todos";
 // ---------- Carregar dados ----------
 async function carregar() {
   try {
-    const base = new URL(".", window.location.href);'
+    const base = new URL(".", window.location.href);
     const resp = await fetch(new URL("dados.json"i, base));
     if (!resp.ok) throw new Error("Falha ao carregar dados.json");
     const json = await resp.json();
